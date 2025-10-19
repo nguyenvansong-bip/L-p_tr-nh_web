@@ -5,6 +5,13 @@
    vô hiệu hóa:
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc969b0c-a93e-48f0-8537-ad613c4ba17f" />
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35ebd6fc-b90a-42dd-8d3e-39c6b3c8c712" />
+- Download apache server, giải nén ra ổ D, cấu hình các file:
+  + D:\Apache24\conf\httpd.conf
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b98dcd49-0d04-4337-a5bc-93904a276926" />
+  + D:Apache24\conf\extra\httpd-vhosts.conf
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cd463ff-e7bc-48ea-aee8-9345986c1819" />
 
+
+    
 
 

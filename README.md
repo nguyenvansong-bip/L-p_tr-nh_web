@@ -33,5 +33,12 @@ K57KMT
 2.4. Cài đặt thư viện trên nodered:
 <img width="1920" height="1080" alt="Ảnh chụp màn hình 2025-10-21 210753" src="https://github.com/user-attachments/assets/179228cc-cf5b-41b5-8aa1-b1341ffb0da4" />
 
+2.5. tạo api back-end bằng nodered:
+logic flow sẽ gồm 4 node 
 
+<img width="1920" height="1080" alt="Ảnh chụp màn hình 2025-10-23 205657" src="https://github.com/user-attachments/assets/99be2387-4f35-4954-b1a1-82de81e560e1" />
+
+test api thông qua trình duyệt
+
+<img width="1920" height="1080" alt="Ảnh chụp màn hình 2025-10-23 213923" src="https://github.com/user-attachments/assets/ef4b968d-fd52-4f67-8b4c-0a8d8c062412" />
 

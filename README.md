@@ -42,3 +42,17 @@ test api thông qua trình duyệt
 
 <img width="1920" height="1080" alt="Ảnh chụp màn hình 2025-10-23 213923" src="https://github.com/user-attachments/assets/ef4b968d-fd52-4f67-8b4c-0a8d8c062412" />
 
+2.6. Tạo giao diện front-end:
+
+html
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87c38aa2-57a0-46d1-9b94-6c428ad689ee" />
+css
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0fbb7b7-e879-458f-a1fb-d140a52d8a16" />
+ js
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/490ce2e3-cb95-4ae4-a8c0-868c9415d0c6" />
+
+3 file này đặt trong thư mục
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe2cb622-1f97-4ace-9bf1-45ffca68fe33" />
+
+giao diện với kết quả truy vấn
+<img width="1920" height="1080" alt="Ảnh chụp màn hình 2025-10-23 223258" src="https://github.com/user-attachments/assets/86e0719e-a792-4ae9-8bf6-2a12addc6536" />

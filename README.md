@@ -58,6 +58,7 @@ giao diện với kết quả truy vấn
 <img width="1920" height="1080" alt="Ảnh chụp màn hình 2025-10-23 223258" src="https://github.com/user-attachments/assets/86e0719e-a792-4ae9-8bf6-2a12addc6536" />
 
 2.7. Nhận xét bài làm của mình
+
 Về quá trình cài đặt phần mềm và thư viện:
 
 Em đã hiểu rõ các bước cài đặt từng phần mềm cần thiết như Node.js, Node-RED, và Apache. Biết cách cấu hình môi trường, thiết lập đường dẫn, và xử lý một số lỗi thường gặp trong quá trình cài đặt (ví dụ: lỗi quyền truy cập, lỗi cấu hình DocumentRoot trong Apache).

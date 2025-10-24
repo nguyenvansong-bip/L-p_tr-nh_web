@@ -56,3 +56,16 @@ css
 
 giao diện với kết quả truy vấn
 <img width="1920" height="1080" alt="Ảnh chụp màn hình 2025-10-23 223258" src="https://github.com/user-attachments/assets/86e0719e-a792-4ae9-8bf6-2a12addc6536" />
+
+2.7. Nhận xét bài làm của mình
+Về quá trình cài đặt phần mềm và thư viện:
+
+Em đã hiểu rõ các bước cài đặt từng phần mềm cần thiết như Node.js, Node-RED, và Apache. Biết cách cấu hình môi trường, thiết lập đường dẫn, và xử lý một số lỗi thường gặp trong quá trình cài đặt (ví dụ: lỗi quyền truy cập, lỗi cấu hình DocumentRoot trong Apache).
+
+Về cách sử dụng Node-RED để tạo API back-end:
+
+Em đã nắm được cách tạo luồng (flow) trong Node-RED để xử lý dữ liệu, dùng các node như http in, function, http response để xây dựng API. Biết cách kết nối với cơ sở dữ liệu (nếu có), và kiểm tra API hoạt động thông qua trình duyệt hoặc Postman.
+
+Về cách front-end tương tác với back-end:
+
+Em đã hiểu cách front-end (HTML, JavaScript hoặc framework như React/Vue) gửi yêu cầu đến back-end thông qua API (HTTP request). Biết được quá trình dữ liệu đi từ front-end → Node-RED → xử lý → trả kết quả lại cho người dùng.
